@@ -1,0 +1,21 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Time2Pick-0006.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\ercea\OneDrive\Belgeler\GitHub\Unreal Engine\Time2Pick\Time2Pick\Intermediate\Build\Win64\Time2PickEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\ercea\OneDrive\Belgeler\GitHub\Unreal Engine\Time2Pick\Time2Pick\Intermediate\Build\Win64\UnrealEditor\Development\Time2Pick\BatteryMan.gen.cpp.obj"
+"C:\Users\ercea\OneDrive\Belgeler\GitHub\Unreal Engine\Time2Pick\Time2Pick\Intermediate\Build\Win64\UnrealEditor\Development\Time2Pick\Time2Pick.init.gen.cpp.obj"
+"C:\Users\ercea\OneDrive\Belgeler\GitHub\Unreal Engine\Time2Pick\Time2Pick\Intermediate\Build\Win64\UnrealEditor\Development\Time2Pick\Time2PickCharacter.gen.cpp.obj"
+"C:\Users\ercea\OneDrive\Belgeler\GitHub\Unreal Engine\Time2Pick\Time2Pick\Intermediate\Build\Win64\UnrealEditor\Development\Time2Pick\Time2PickGameMode.gen.cpp.obj"
+"C:\Users\ercea\OneDrive\Belgeler\GitHub\Unreal Engine\Time2Pick\Time2Pick\Intermediate\Build\Win64\UnrealEditor\Development\Time2Pick\Time2Pick_GameMode.gen.cpp.obj"
+"C:\Users\ercea\OneDrive\Belgeler\GitHub\Unreal Engine\Time2Pick\Time2Pick\Intermediate\Build\Win64\UnrealEditor\Development\Time2Pick\Time2Pick.cpp.obj"
+"C:\Users\ercea\OneDrive\Belgeler\GitHub\Unreal Engine\Time2Pick\Time2Pick\Intermediate\Build\Win64\UnrealEditor\Development\Time2Pick\Time2PickCharacter.cpp.obj"
+"C:\Users\ercea\OneDrive\Belgeler\GitHub\Unreal Engine\Time2Pick\Time2Pick\Intermediate\Build\Win64\UnrealEditor\Development\Time2Pick\Time2PickGameMode.cpp.obj"
+"C:\Users\ercea\OneDrive\Belgeler\GitHub\Unreal Engine\Time2Pick\Time2Pick\Intermediate\Build\Win64\UnrealEditor\Development\Time2Pick\BatteryMan.cpp.obj"
+"C:\Users\ercea\OneDrive\Belgeler\GitHub\Unreal Engine\Time2Pick\Time2Pick\Intermediate\Build\Win64\UnrealEditor\Development\Time2Pick\Time2Pick_GameMode.cpp.obj"
+"C:\Users\ercea\OneDrive\Belgeler\GitHub\Unreal Engine\Time2Pick\Time2Pick\Intermediate\Build\Win64\UnrealEditor\Development\Time2Pick\Default.rc2.res"
+/OUT:"C:\Users\ercea\OneDrive\Belgeler\GitHub\Unreal Engine\Time2Pick\Time2Pick\Intermediate\Build\Win64\UnrealEditor\Development\Time2Pick\UnrealEditor-Time2Pick-0006.lib"

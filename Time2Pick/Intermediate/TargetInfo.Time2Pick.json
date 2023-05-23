@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Time2Pick",
+			"Path": "C:\\Users\\ercea\\OneDrive\\Belgeler\\GitHub\\Unreal Engine\\Time2Pick\\Time2Pick\\Source\\Time2Pick.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Time2PickEditor",
+			"Path": "C:\\Users\\ercea\\OneDrive\\Belgeler\\GitHub\\Unreal Engine\\Time2Pick\\Time2Pick\\Source\\Time2PickEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
